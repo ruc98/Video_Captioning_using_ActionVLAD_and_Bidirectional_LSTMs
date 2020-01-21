@@ -41,3 +41,5 @@ Image captioning using VLAD features and LSTM.
 ## Task 5
 Video Captioning using ActionVLAD as encoder and a single hidden
 layer LSTM based RNN as decoder.
+
+Results and Complete report is attached as "Team_7_Report.pdf".
