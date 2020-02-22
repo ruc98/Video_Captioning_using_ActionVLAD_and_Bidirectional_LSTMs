@@ -6,7 +6,7 @@
 - numpy
 - ImageURLs.txt
 
-Note that I only tested in python3 (maybe with some tweaks it will run in python2).
+Tested in python3
 
 ## How to Download NUS-WIDE raw image
 
@@ -14,7 +14,7 @@ Note that I only tested in python3 (maybe with some tweaks it will run in python
 python3 download_nus_wide.py
 ```
 
-There are some options you can give, see more info with,
+more info with,
 
 ```
 python3 download_nus_wide.py --help
